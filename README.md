@@ -4,6 +4,8 @@
 **self-regulation techniques**. Developed in **Android Studio**, this app combines emotional self-awareness with engaging **gamification** elements 
 to promote consistent use.
 
+[Repository link](https://github.com/noeliarozado/EmocionaApp.git)
+
 ## FEATURES AND FUNCTIONALITY
 
 ## Emotion register
